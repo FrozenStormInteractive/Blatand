@@ -1,0 +1,17 @@
+{
+    "name": "ArsenStudio.Bluetooth.Core.Editor",
+    "references": [
+        "GUID:d25bc2902bb8c0345a75e1bff6f50ee3"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

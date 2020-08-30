@@ -1,0 +1,8 @@
+{
+  "name": "com.arsenstudio.bluetooth.core",
+  "version": "1.0.0",
+  "displayName": "Bluetooth for Unity",
+  "unity": "2018.1",
+  "dependencies": {
+  }
+}

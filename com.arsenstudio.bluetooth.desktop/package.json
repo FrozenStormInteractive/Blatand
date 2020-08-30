@@ -1,0 +1,8 @@
+{
+  "name": "com.arsenstudio.bluetooth.desktop",
+  "version": "1.0.0",
+  "displayName": "Desktop Bluetooth for Unity ",
+  "unity": "2018.1",
+  "dependencies": {
+  }
+}

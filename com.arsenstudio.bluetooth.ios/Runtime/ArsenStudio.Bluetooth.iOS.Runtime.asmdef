@@ -1,0 +1,18 @@
+{
+    "name": "ArsenStudio.Bluetooth.iOS.Runtime",
+    "references": [
+        "GUID:d25bc2902bb8c0345a75e1bff6f50ee3"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

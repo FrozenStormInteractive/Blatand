@@ -1,0 +1,8 @@
+{
+  "name": "com.arsenstudio.bluetooth.android",
+  "version": "1.0.0",
+  "displayName": "Android Bluetooth for Unity ",
+  "unity": "2018.1",
+  "dependencies": {
+  }
+}

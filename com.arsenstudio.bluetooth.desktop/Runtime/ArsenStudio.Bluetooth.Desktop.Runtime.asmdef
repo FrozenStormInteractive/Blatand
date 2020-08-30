@@ -1,0 +1,21 @@
+{
+    "name": "ArsenStudio.Bluetooth.Desktop.Runtime",
+    "references": [
+        "GUID:d25bc2902bb8c0345a75e1bff6f50ee3"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "LinuxStandalone64",
+        "macOSStandalone",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
